@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "breamer_backend"
-  },
   "api": {
-    "projectId": "df7g41n2",
+    "projectId": "7b43tw6e",
     "dataset": "production"
+  },
+  "project": {
+    "name": "breamer"
   },
   "plugins": [
     "@sanity/base",
